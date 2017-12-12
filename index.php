@@ -1,2 +1,2 @@
 <?php
-    // Silence is golden
+    echo '<p style="text-align: center;">B - Fallback Theme WordPress</p>';
